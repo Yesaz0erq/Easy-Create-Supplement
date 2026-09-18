@@ -24,7 +24,7 @@ repositories {
     maven { url = 'https://maven.ithundxr.dev/mirror' }
 }
 dependencies {
-    minecraft 'net.minecraftforge:forge:1.20.1-47.4.23'
+    minecraft 'net.minecraftforge:forge:1.20.1-47.4.20'
     implementation fg.deobf('com.simibubi.create:create-1.20.1:6.0.8-291:slim')
     implementation fg.deobf('net.createmod.ponder:Ponder-Forge-1.20.1:1.0.91')
     compileOnly fg.deobf('dev.engine-room.flywheel:flywheel-forge-api-1.20.1:1.0.6-281')

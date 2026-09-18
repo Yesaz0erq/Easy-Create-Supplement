@@ -11,7 +11,7 @@ description="Create recipe simplification and wireless Ender devices."
 [[dependencies.easycreate]]
 modId="forge"
 mandatory=true
-versionRange="[47.4.23,)"
+versionRange="[47.4.20,)"
 ordering="NONE"
 side="BOTH"
 [[dependencies.easycreate]]
