@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="src/main/resources/easycreate_logo.png" alt="EASY CREATE" width="560">
 </p>
 
@@ -36,23 +36,6 @@
 
 可选安装 **JEI** 查看合成与加工配方。两个版本的 JAR 请按游戏环境分别使用。
 
-## 从源码构建
-
-仓库根目录是 NeoForge 1.21.1 工程；`forge-1.20.1/` 是可独立构建的 Forge 1.20.1 工程。每个工程仅包含源码、运行资源与 Gradle 构建文件。
-
-进入目标工程，使用上表对应的 Java 版本执行：
-
-```sh
-# Linux / macOS
-./gradlew build
-```
-
-```powershell
-# Windows
-.\gradlew.bat build
-```
-
-首次构建需要联网下载依赖。成品位于所选工程的 `build/libs/`。启动开发客户端使用 `runClient`。
 
 ## 反馈与贡献
 
