@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.easycreate.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "easycreate.refmap.json",
+  "mixins": ["RotationPropagatorMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

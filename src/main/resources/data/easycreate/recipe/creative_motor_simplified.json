@@ -1,0 +1,14 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "pattern": ["CPP ", "DRTS", "CPP "],
+  "key": {
+    "C": {"item": "create:chromatic_compound"},
+    "P": {"item": "create:sturdy_sheet"},
+    "D": {"item": "create:shadow_steel_casing"},
+    "R": {"item": "create:refined_radiance_casing"},
+    "T": {"item": "create:rotation_speed_controller"},
+    "S": {"item": "create:shaft"}
+  },
+  "result": {"id": "create:creative_motor", "count": 1}
+}

@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "results": [
+    {
+      "item": "create:railway_casing"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "create:brass_casing"
+    },
+    {
+      "item": "create:sturdy_sheet"
+    }
+  ]
+}

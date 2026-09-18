@@ -1,0 +1,11 @@
+**/.gradle/
+**/.gradle-user/
+**/build/
+**/run/
+**/run-data/
+**/out/
+**/.idea/
+**/*.iml
+**/logs/
+**/crash-reports/
+**/local.properties

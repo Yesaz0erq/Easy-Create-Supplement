@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "easycreate:block/ender_speed_controller/block",
+      "y": 90
+    },
+    "axis=z": {
+      "model": "easycreate:block/ender_speed_controller/block"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "easycreate:block/smart_chute/block",
+	"textures": {
+		"7": "easycreate:block/chute_smart_powered",
+		"8": "easycreate:block/chute_closed",
+		"particle": "easycreate:block/chute_smart_powered"
+	}
+}

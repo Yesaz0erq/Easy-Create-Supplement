@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "tag": "forge:stripped_logs"
+    },
+    {
+      "item": "create:refined_radiance"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "create:refined_radiance_casing"
+  }
+}

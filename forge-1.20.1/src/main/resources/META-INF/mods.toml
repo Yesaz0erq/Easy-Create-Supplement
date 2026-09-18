@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[mods]]
+modId="easycreate"
+version="1.0-K2"
+displayName="EASY CREATE"
+logoFile="easycreate_logo.png"
+authors="OFFSET Inc."
+description="Create recipe simplification and wireless Ender devices."
+[[dependencies.easycreate]]
+modId="forge"
+mandatory=true
+versionRange="[47.4.23,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.easycreate]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.easycreate]]
+modId="create"
+mandatory=true
+versionRange="[6.0.8,6.1)"
+ordering="AFTER"
+side="BOTH"

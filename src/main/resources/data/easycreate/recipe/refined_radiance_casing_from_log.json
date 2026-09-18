@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "results": [
+    {
+      "id": "create:refined_radiance_casing"
+    }
+  ],
+  "ingredients": [
+    {
+      "tag": "c:stripped_logs"
+    },
+    {
+      "item": "create:refined_radiance"
+    }
+  ]
+}

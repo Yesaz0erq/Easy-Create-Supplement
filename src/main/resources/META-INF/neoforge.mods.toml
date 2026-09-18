@@ -1,0 +1,36 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "MIT"
+
+[[mods]]
+modId = "easycreate"
+version = "${mod_version}"
+displayName = "EASY CREATE"
+logoFile="easycreate_logo.png"
+authors = "OFFSET Inc."
+description = "NeoForge branch for Create recipe simplification."
+
+[[dependencies.easycreate]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1.227,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.easycreate]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.22)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.easycreate]]
+modId = "create"
+type = "required"
+versionRange = "[6.0.10,6.1.0)"
+ordering = "NONE"
+side = "BOTH"
+
+
+[[mixins]]
+config = "easycreate.mixins.json"

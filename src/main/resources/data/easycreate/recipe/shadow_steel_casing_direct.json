@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "tag": "c:stripped_logs"
+    },
+    {
+      "item": "create:shadow_steel"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "create:shadow_steel_casing"
+  }
+}
